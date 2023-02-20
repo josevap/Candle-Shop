@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 20px;
+        text-decoration-style: double;
+    }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+.pom {
+    text-align: center;
+    color: #b38964;
+    background-image: url("../pictures/stories-mFTOFzUKdl0-unsplash.jpg");
+    background-size: cover;
+    height: 100vh;
+    margin-top: 0px;
+}
